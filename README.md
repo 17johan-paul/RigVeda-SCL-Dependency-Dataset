@@ -7,4 +7,4 @@ We provide three distinct datasets with dependency annotations:
 corrected and annotated.
 
 • Gold-Validated Data: A high-precision subset of 102 mantras, further validated through
-consultation with senior Vedic scholars.
+consultation with senior Vedic scholars can be found here: (https://start.samsaadhanii.in/books).
